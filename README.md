@@ -6,18 +6,18 @@
 
 <!-- About  -->
 ## About Me
-Hi there, my name is Yash Sanjay Awaghate, and I am a passionate Computer Science student at Rochester Institute of Technology (RIT), with a special interest in Data Analysis, Artificial Intelligence, and Software Development.
+Hi there, my name is Yash Sanjay Awaghate, and I am a passionate Computer Science student at Rochester Institute of Technology (RIT). My special interests lie in Data Analysis, Artificial Intelligence, and Computer Vision.
 
-I have a strong command of data structures and algorithms, which has helped me to develop efficient and scalable software solutions. I have experience working with various programming languages and technologies.
+I have a strong command of data structures and algorithms, which has helped me develop efficient and scalable software solutions. I have experience working with various programming languages and technologies, including image processing and database management.
 
-As a data analyst and software developer, I am skilled in developing and optimizing complex data solutions and applications, which allows me to create robust and dynamic systems. I have worked on various projects, from data analysis interfaces to machine learning models.
+As a data analyst and software developer, I am skilled in developing and optimizing complex data solutions and applications. I have worked on various projects, from natural language processing systems to machine learning models and computer vision applications.
 
-In my spare time, I enjoy exploring new technologies and learning about the latest trends in software development. I am always looking for ways to improve my skills and take on new challenges.
+In my spare time, I enjoy exploring new technologies and learning about the latest trends in software development. My curiosity has led me to try my hand at frontend development, among other fields, to find what truly excites me.
 
-If you're looking for a dedicated and talented software developer, I would be thrilled to work with you. Feel free to reach out to me to discuss your project or ideas. Thank you for taking the time to read my about section!
+If you're looking for a dedicated and talented software developer, I would be thrilled to work with you. Feel free to reach out to discuss your project or ideas. Thank you for taking the time to read my about section!
 
 ### Contact
-Need help building your community or Web app? You can contact me on ! [Portfolio](https://github.com/YashAwaghate) [LinkedIn](https://www.linkedin.com/in/yash-awaghate)
+Reach out to me at Email: [ya2390@g.rit.edu](mailto:ya2390@g.rit.edu) or [LinkedIn](https://www.linkedin.com/in/yash-awaghate)
 
 ### My Skills and Tools & Software I Use
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -56,8 +56,8 @@ Need help building your community or Web app? You can contact me on ! [Portfolio
 
 
 ## Education
-- **MS in Computer Science** – Rochester Institute of Technology at Rochester, NY | Scholarship: 40% | GPA: 4.0 | May 2025
-  - Coursework: Foundations of Algorithms, Foundations of Artificial Intelligence, Foundations of Computer Graphics
+- **MS in Computer Science** – Rochester Institute of Technology at Rochester, NY | Scholarship: 40% | GPA: 4.0 | Dec 2025
+  - Coursework: Foundations of Computer Vision, Foundations of Algorithms, Foundations of Artificial Intelligence, Foundations of     Computer Graphics
 
 - **B.Tech in Computer Engineering** – DBATU University (Bajaj Institute of Technology) | GPA: 3.3 | May 2021
   - Coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems
