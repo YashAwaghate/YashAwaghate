@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Banner -->
+<!-- <img align="center" src="https://raw.githubusercontent.com/mahi-19/mahi-19/main/back.png"/></a> -->
+<img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="watching_count" />
 
-<!--
-**YashAwaghate/YashAwaghate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- typing effect -->
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Sanjay+Awaghate;A+Computer+Science+Graduate+Student;I+love+Data+Analysis+and+AI;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
 
-Here are some ideas to get you started:
+<!-- About  -->
+## About Me
+Hi there, my name is Yash Sanjay Awaghate, and I am a passionate Computer Science student at Rochester Institute of Technology (RIT), with a special interest in Data Analysis, Artificial Intelligence, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong command of data structures and algorithms, which has helped me to develop efficient and scalable software solutions. I have experience working with various programming languages and technologies.
+
+As a data analyst and software developer, I am skilled in developing and optimizing complex data solutions and applications, which allows me to create robust and dynamic systems. I have worked on various projects, from data analysis interfaces to machine learning models.
+
+In my spare time, I enjoy exploring new technologies and learning about the latest trends in software development. I am always looking for ways to improve my skills and take on new challenges.
+
+If you're looking for a dedicated and talented software developer, I would be thrilled to work with you. Feel free to reach out to me to discuss your project or ideas. Thank you for taking the time to read my about section!
+
+### Contact
+Need help building your community or Web app? You can contact me on ! [Portfolio](https://github.com/YashAwaghate) [LinkedIn](https://www.linkedin.com/in/yash-awaghate)
+
+### My Skills and Tools & Software I Use
+![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sql,mongodb,postgres,git,github,azure,tableau)
+
+# 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YashAwaghate&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YashAwaghate&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Snake animation](https://github.com/YashAwaghate/YashAwaghate/blob/output/github-user-contribution.svg)
+<img src="https://komarev.com/ghpvc/?username=YashAwaghate&color=brightgreen" alt="watching_count" />
+
+## Education
+- **MS in Computer Science** – Rochester Institute of Technology at Rochester, NY | Scholarship: 40% | GPA: 4.0 | May 2025
+  - Coursework: Foundations of Algorithms, Foundations of Artificial Intelligence, Foundations of Computer Graphics
+
+- **B.Tech in Computer Engineering** – DBATU University (Bajaj Institute of Technology) | GPA: 3.3 | May 2021
+  - Coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems
+
+## Skills
+- **Programming:** Python, Java, SQL, R, C++, Unix, Shell Scripting, HTML, Javascript
+- **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB
+- **Tools:** Tableau, GIT, MS Azure, Snowflake
+- **Certifications:** Machine Learning with Python (IBM), SQL Essential, Python Data Analysis (LinkedIn)
+
+## Professional Experience
+**Apps Associates (I) Pvt. Ltd, Hyderabad, India**  
+*Associate Consultant*  
+September 2021 – May 2023
+- Orchestrated complex Data Analysis projects, over 30+ complex OTBI and BIP report customizations, leveraging SQL to surpass project objectives.
+- Managed the migration of critical data through the use of FBDI, Spreadsheets, and PL/SQL packages, ensuring 100% integrity of data and seamless system integration.
+- Pioneered 5 instrumental reports empowering in-depth revenue management analysis for future corporate deals, thereby boosting project delivery efficiency by 10%.
+- Developed expertise in Oracle Fusion modules, optimizing operational workflow in 4 key areas: Collections, General Ledger, Receivables, and Payables.
+- Collaborated with senior consultants on high-priority tasks, contributing to a 100% on-time delivery rate for production environments while upholding data integrity through cross-functional teamwork.
+- Automated laborious tasks in Excel using Python scripts, leading to a 40% boost in efficiency.
+- Actively participated in Agile Teams, delivering high-quality results, fostering collaboration, and adapting to changing requirements, resulting in increased customer satisfaction.
+- Awarded for pivotal contributions to a major project, resulting in a substantial decrease in client-related issues.
+
+## Academic Projects
+**Natural Language Interface for Databases (Python, TensorFlow, Word2Vec, SQL, Git)**  
+September 2020 – March 2021
+- Engineered a natural language processing (NLP) system in Python, utilizing TensorFlow and advanced Bi-LSTM models, to interpret and translate natural language queries into SQL, increasing query accessibility for nontechnical users by 50%.
+- Employed Word2Vec to generate word embeddings, improving the system's language model to understand query context with 30% higher accuracy compared to traditional methods.
+- Developed interactive data visualizations with Python's matplotlib for enhanced query result exploration.
+- Pioneered a collaborative development environment using Git, leading to a 15% increase in productivity and a 20% decrease in code integration issues.
+
+**Road Sign Recognition (Python, OpenCV, TensorFlow, CNN)**  
+February 2019–May 2019
+- Assembled and annotated a diverse dataset of over 1,200 images depicting various Indian road signs, enhancing the training process for machine learning models.
+- Leveraged OpenCV and TensorFlow to deploy a Convolutional Neural Network (CNN) on a Raspberry Pi, facilitating the real-time detection and classification of road signs with a 20% increase in processing speed.
+- Integrated Google's Vision API to augment CNN's capabilities, enabling the recognition system to handle obscure and partially obstructed signs with greater precision.
+
+## Extracurricular Activities
+- Ranked in the top 10% in Round 1 of the National level coding competition (Codevita) by TCS in 2020.
+- Led the college Chess team to a 2nd place finish in an intercollegiate tournament with 15 contenders.
