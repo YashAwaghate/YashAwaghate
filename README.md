@@ -2,7 +2,7 @@
 <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="watching_count" />
 
 <!-- typing effect -->
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Sanjay+Awaghate;A+Computer+Science+Graduate+Student;I+love+Data+Analysis+and+AI;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Sanjay+Awaghate;A+Computer+Science+Graduate+Student;I+love+Data+Analysis+Computer+Vision+and+AI;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
 
 <!-- About  -->
 ## About Me
