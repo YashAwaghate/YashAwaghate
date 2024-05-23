@@ -52,7 +52,6 @@ Need help building your community or Web app? You can contact me on ! [Portfolio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Snake animation](https://github.com/YashAwaghate/YashAwaghate/blob/output/github-user-contribution.svg)
 <img src="https://komarev.com/ghpvc/?username=YashAwaghate&color=brightgreen" alt="watching_count" />
 
 
