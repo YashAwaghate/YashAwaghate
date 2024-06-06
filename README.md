@@ -14,7 +14,7 @@ As a data analyst and software developer, I am skilled in developing and optimiz
 
 In my spare time, I enjoy exploring new technologies and learning about the latest trends in software development. My curiosity has led me to try my hand at frontend development, among other fields, to find what truly excites me.
 
-If you're looking for a dedicated and talented software developer, I would be thrilled to work with you. Feel free to reach out to discuss your project or ideas. Thank you for taking the time to read my about section!
+If you're looking for a dedicated and talented software developer, I would be thrilled to work with you. Feel free to reach out to discuss your project or ideas. Thank you for taking the time to read my About section!
 
 ### Contact
 Reach out to me at Email: [ya2390@g.rit.edu](mailto:ya2390@g.rit.edu) or [LinkedIn](https://www.linkedin.com/in/yash-awaghate)
