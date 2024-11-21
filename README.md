@@ -84,18 +84,28 @@ September 2021 – May 2023
 - Awarded for pivotal contributions to a major project, resulting in a substantial decrease in client-related issues.
 
 ## Academic Projects
+
+**Analysis of NYC Taxi Data and Visualizations | Python, Tableau, MongoDB, SQL**  
+**Aug 2024 – Sep 2024**  
+- Conducted in-depth analysis of 1.5 million NYC taxi ride records to uncover trends in trip durations, fare amounts, and passenger behaviors, leveraging Python for data cleaning and preprocessing.  
+- Designed and implemented ER diagrams and relational models for the dataset, ensuring a normalized database structure that reduced redundancy by 25%.  
+- Identified relevant functional dependencies to define schema constraints and enhance query performance by 20%.  
+- Migrated the dataset to MongoDB, structuring it as a document-oriented database for flexible querying and faster aggregation, reducing query execution time by 30%.  
+- Developed interactive dashboards in Tableau to visualize key insights such as peak demand hours, trip patterns, and revenue distribution, enhancing stakeholder understanding of data trends.  
+
 **Natural Language Interface for Databases (Python, TensorFlow, Word2Vec, SQL, Git)**  
-September 2020 – March 2021
-- Engineered a natural language processing (NLP) system in Python, utilizing TensorFlow and advanced Bi-LSTM models, to interpret and translate natural language queries into SQL, increasing query accessibility for nontechnical users by 50%.
-- Employed Word2Vec to generate word embeddings, improving the system's language model to understand query context with 30% higher accuracy compared to traditional methods.
-- Developed interactive data visualizations with Python's matplotlib for enhanced query result exploration.
-- Pioneered a collaborative development environment using Git, leading to a 15% increase in productivity and a 20% decrease in code integration issues.
+**Sep 2020 – Mar 2021**  
+- Engineered a natural language processing (NLP) system in Python, utilizing TensorFlow and advanced Bi-LSTM models, to interpret and translate natural language queries into SQL, increasing query accessibility for nontechnical users by 50%.  
+- Employed Word2Vec to generate word embeddings, improving the system's language model to understand query context with 30% higher accuracy compared to traditional methods.  
+- Developed interactive data visualizations with Python's matplotlib for enhanced query result exploration.  
+- Pioneered a collaborative development environment using Git, leading to a 15% increase in productivity and a 20% decrease in code integration issues.  
 
 **Road Sign Recognition (Python, OpenCV, TensorFlow, CNN)**  
-February 2019–May 2019
-- Assembled and annotated a diverse dataset of over 1,200 images depicting various Indian road signs, enhancing the training process for machine learning models.
-- Leveraged OpenCV and TensorFlow to deploy a Convolutional Neural Network (CNN) on a Raspberry Pi, facilitating the real-time detection and classification of road signs with a 20% increase in processing speed.
-- Integrated Google's Vision API to augment CNN's capabilities, enabling the recognition system to handle obscure and partially obstructed signs with greater precision.
+**Feb 2019 – May 2019**  
+- Assembled and annotated a diverse dataset of over 1,200 images depicting various Indian road signs, enhancing the training process for machine learning models.  
+- Leveraged OpenCV and TensorFlow to deploy a Convolutional Neural Network (CNN) on a Raspberry Pi, facilitating the real-time detection and classification of road signs with a 20% increase in processing speed.  
+- Integrated Google's Vision API to augment CNN's capabilities, enabling the recognition system to handle obscure and partially obstructed signs with greater precision.  
+
 
 ## Extracurricular Activities
 - Ranked in the top 10% in Round 1 of the National level coding competition (Codevita) by TCS in 2020.
